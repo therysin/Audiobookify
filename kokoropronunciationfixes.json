@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 1.01,
   "engine": "kokoro",
   "updated": "2026-06-21",
   "entries": [
@@ -7,7 +7,7 @@
     { "word": "fiancé", "ipa": "fiˈɑnseɪ" },
     { "word": "fiancée", "ipa": "fiˈɑnseɪ" },
     { "word": "lived", "ipa": "lɪvd" },
-
+    { "word": "the", "ipa": "ðə" },
     { "word": "don't", "ipa": "doʊnt" },
     { "word": "I'll", "ipa": "aɪl" },
     { "word": "I'm", "ipa": "aɪm" },
