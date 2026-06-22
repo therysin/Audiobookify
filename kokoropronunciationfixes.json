@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "engine": "kokoro",
   "updated": "2026-06-21",
   "entries": [
@@ -33,7 +33,6 @@
     { "word": "they'll", "ipa": "ðeɪl" },
     { "word": "they've", "ipa": "ðeɪv" },
     { "word": "they'd", "ipa": "ðeɪd" },
-
     { "word": "can't", "ipa": "kænt" },
     { "word": "won't", "ipa": "woʊnt" },
     { "word": "isn't", "ipa": "ˈɪzənt" },
@@ -48,7 +47,6 @@
     { "word": "haven't", "ipa": "ˈhævənt" },
     { "word": "hasn't", "ipa": "ˈhæzənt" },
     { "word": "hadn't", "ipa": "ˈhædənt" },
-
     { "word": "that's", "ipa": "ðæts" },
     { "word": "there's", "ipa": "ðɛɹz" },
     { "word": "here's", "ipa": "hɪɹz" },
@@ -58,5 +56,41 @@
     { "word": "who'll", "ipa": "hul" },
     { "word": "who'd", "ipa": "hud" },
     { "word": "let's", "ipa": "lɛts" }
+
+    { "word": "hm", "ipa": "hm" },
+    { "word": "hmm", "ipa": "hmː" },
+    { "word": "hmmm", "ipa": "hmː" },
+    { "word": "hmph", "ipa": "hmf" },
+    { "word": "huh", "ipa": "hʌ" },
+    { "word": "uh", "ipa": "ə" },
+    { "word": "um", "ipa": "ʌm" },
+    { "word": "umm", "ipa": "ʌm" },
+    { "word": "uhh", "ipa": "ə" },
+    { "word": "eh", "ipa": "eɪ" },
+    { "word": "meh", "ipa": "mɛ" },
+    { "word": "aww", "ipa": "ɔ" },
+    { "word": "ah", "ipa": "ɑ" },
+    { "word": "aha", "ipa": "əˈhɑ" },
+    { "word": "oops", "ipa": "ups" },
+    { "word": "ugh", "ipa": "ʌɡ" },
+    { "word": "ew", "ipa": "ju" },
+    { "word": "psst", "ipa": "pst" },
+    { "word": "shh", "ipa": "ʃ" },
+    { "word": "tsk", "ipa": "tsk" },
+    { "word": "mm-hmm", "ipa": "mːˈhʌm" },
+    { "word": "uh-huh", "ipa": "əˈhʌ" },
+    { "word": "nuh-uh", "ipa": "nʌˈʌ" },
+
+    { "word": "gonna", "ipa": "ˈɡʌnə" },
+    { "word": "wanna", "ipa": "ˈwɑnə" },
+    { "word": "gotta", "ipa": "ˈɡɑɾə" },
+    { "word": "kinda", "ipa": "ˈkaɪndə" },
+    { "word": "sorta", "ipa": "ˈsɔɹɾə" },
+    { "word": "lemme", "ipa": "ˈlɛmi" },
+    { "word": "gimme", "ipa": "ˈɡɪmi" },
+    { "word": "cuz", "ipa": "kʌz" },
+    { "word": "yeah", "ipa": "jɛə" },
+    { "word": "yep", "ipa": "jɛp" },
+    { "word": "nope", "ipa": "noʊp" }
   ]
 }
