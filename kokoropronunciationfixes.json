@@ -1,5 +1,5 @@
 {
-  "version": 4,
+  "version": 5,
   "engine": "kokoro",
   "updated": "2026-06-22",
   "entries": [
@@ -20,6 +20,7 @@
     { "word": "family", "ipa": "fæmli" },
     { "word": "family's", "ipa": "fæmliz" },
     { "word": "families", "ipa": "fæmliz" },
+    { "word": "flattery", "ipa": "flæɾɚi" },
     
     { "word": "o'clock", "ipa": "əˈklɑk" },
     { "word": "o’clock", "ipa": "əˈklɑk" },
