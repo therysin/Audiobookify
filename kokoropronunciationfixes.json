@@ -1,5 +1,5 @@
 {
-  "version": 6,
+  "version": 7,
   "engine": "kokoro",
   "updated": "2026-06-22",
   "entries": [
@@ -30,6 +30,13 @@
     { "word": "majesties", "ipa": "mædʒəstiz" },
     { "word": "majesty's", "ipa": "mædʒəstiz" },
     { "word": "majesties'", "ipa": "mædʒəstiz" },
+
+
+    { "word": "would've", "ipa": "ˈwʊɾəv" }
+    { "word": "could've", "ipa": "kʊɾəv" },
+    { "word": "should've", "ipa": "ʃʊɾəv" },
+    { "word": "must've", "ipa": "mʌstəv" },
+    { "word": "might've", "ipa": "maɪɾəv" },
     
     { "word": "o'clock", "ipa": "əˈklɑk" },
     { "word": "o’clock", "ipa": "əˈklɑk" },
