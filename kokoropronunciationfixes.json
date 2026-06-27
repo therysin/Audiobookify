@@ -1,7 +1,7 @@
 {
-  "version": 8,
+  "version": 9,
   "engine": "kokoro",
-  "updated": "2026-06-26",
+  "updated": "2026-06-27",
   "entries": [
     { "word": "fiance", "ipa": "fiˈɑnseɪ" },
     { "word": "fiancé", "ipa": "fiˈɑnseɪ" },
@@ -22,6 +22,7 @@
     { "word": "families", "ipa": "fæmliz" },
     { "word": "flattery", "ipa": "flæɾɚi" },
     { "word": "Hermione", "ipa": "hɚˈmaɪəni" },
+    { "word": "Hermione's", "ipa": "hɚˈmaɪəniz" },
     { "word": "created", "ipa": "kriˈeɪtɪd" },
     { "word": "create", "ipa": "kriˈeɪt" },
     { "word": "creates", "ipa": "kriˈeɪts" },
