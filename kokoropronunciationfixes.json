@@ -1,5 +1,5 @@
 {
-  "version": 9,
+  "version": 10,
   "engine": "kokoro",
   "updated": "2026-06-27",
   "entries": [
@@ -32,6 +32,9 @@
     { "word": "majesty's", "ipa": "mædʒəstiz" },
     { "word": "majesties'", "ipa": "mædʒəstiz" },
 
+    { "word": "body", "ipa": "bɑdi" },
+    { "word": "body's", "ipa": "bɑdiz" },
+    { "word": "bodies", "ipa": "bɑdiz" },
 
     { "word": "would've", "ipa": "ˈwʊɾəv" },
     { "word": "could've", "ipa": "kʊɾəv" },
