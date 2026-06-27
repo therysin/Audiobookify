@@ -38,6 +38,16 @@
     { "word": "should've", "ipa": "ʃʊɾəv" },
     { "word": "must've", "ipa": "mʌstəv" },
     { "word": "might've", "ipa": "maɪɾəv" },
+
+    { "word": "yeah", "ipa": "jɛə" },
+    { "word": "yea", "ipa": "jeɪ" },
+    { "word": "yep", "ipa": "jɛp" },
+    { "word": "yup", "ipa": "jʌp" },
+    { "word": "yah", "ipa": "jɑ" },
+    { "word": "ya", "ipa": "jə" },
+    { "word": "nah", "ipa": "nɑ" },
+    { "word": "nope", "ipa": "noʊp" },
+    { "word": "kay", "ipa": "keɪ" },
     
     { "word": "o'clock", "ipa": "əˈklɑk" },
     { "word": "o’clock", "ipa": "əˈklɑk" },
@@ -80,10 +90,6 @@
     { "word": "cuz", "ipa": "kʌz" },
     { "word": "'cause", "ipa": "kʌz" },
     { "word": "’cause", "ipa": "kʌz" },
-    { "word": "yeah", "ipa": "jɛə" },
-    { "word": "yep", "ipa": "jɛp" },
-    { "word": "nope", "ipa": "noʊp" },
-    { "word": "nah", "ipa": "nɑː" },
     { "word": "okay", "ipa": "oʊˈkeɪ" },
     { "word": "OK", "ipa": "oʊˈkeɪ" },
     { "word": "AI", "ipa": "ˌeɪˈaɪ" }
