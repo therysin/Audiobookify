@@ -1,7 +1,7 @@
 {
-  "version": 11,
+  "version": 12,
   "engine": "kokoro",
-  "updated": "2026-06-29",
+  "updated": "2026-06-30",
   "entries": [
     { "word": "fiance", "ipa": "fiˈɑnseɪ" },
     { "word": "fiancé", "ipa": "fiˈɑnseɪ" },
@@ -31,6 +31,8 @@
     { "word": "majesties", "ipa": "mædʒəstiz" },
     { "word": "majesty's", "ipa": "mædʒəstiz" },
     { "word": "majesties'", "ipa": "mædʒəstiz" },
+    { "word": "incidents", "ipa": "ˈɪnsɪdənts" },
+    { "word": "incident's", "ipa": "ˈɪnsɪdənts" },
     
     { "word": "body's", "ipa": "bɑdiz" },
     { "word": "bodies", "ipa": "bɑdiz" },
