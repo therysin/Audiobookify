@@ -1,5 +1,5 @@
 {
-  "version": 12,
+  "version": 13,
   "engine": "kokoro",
   "updated": "2026-06-30",
   "entries": [
@@ -38,7 +38,7 @@
     { "word": "bodies", "ipa": "bɑdiz" },
     { "word": "city's", "ipa": "sɪɾiz" },
 
-    { "word": "would've", "ipa": "ˈwʊɾəv" },
+    { "word": "would've", "ipa": "wʊɾəv" },
     { "word": "could've", "ipa": "kʊɾəv" },
     { "word": "should've", "ipa": "ʃʊɾəv" },
     { "word": "must've", "ipa": "mʌstəv" },
