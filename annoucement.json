@@ -1,0 +1,8 @@
+{
+  "version": 1,
+  "active": false,
+  "frequency": "once",
+  "title": "Welcome to the beta",
+  "body": "Thanks for testing Audiobookify! Consider sending your feedback, suggestions via Discord",
+  "link": { "label": "Discord", "url": "https://discord.gg/qfxwnjcr85" }
+}
