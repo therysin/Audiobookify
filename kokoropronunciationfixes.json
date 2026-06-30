@@ -1,7 +1,7 @@
 {
-  "version": 10,
+  "version": 11,
   "engine": "kokoro",
-  "updated": "2026-06-27",
+  "updated": "2026-06-29",
   "entries": [
     { "word": "fiance", "ipa": "fiˈɑnseɪ" },
     { "word": "fiancé", "ipa": "fiˈɑnseɪ" },
@@ -34,6 +34,7 @@
     
     { "word": "body's", "ipa": "bɑdiz" },
     { "word": "bodies", "ipa": "bɑdiz" },
+    { "word": "city's", "ipa": "sɪɾiz" },
 
     { "word": "would've", "ipa": "ˈwʊɾəv" },
     { "word": "could've", "ipa": "kʊɾəv" },
