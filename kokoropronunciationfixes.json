@@ -1,5 +1,5 @@
 {
-  "version": 13,
+  "version": 14,
   "engine": "kokoro",
   "updated": "2026-06-30",
   "entries": [
@@ -33,6 +33,10 @@
     { "word": "majesties'", "ipa": "mædʒəstiz" },
     { "word": "incidents", "ipa": "ɪnsɪdənts" },
     { "word": "incident's", "ipa": "ɪnsɪdənts" },
+    { "word": "reprimanded", "ipa": "rɛprɪˌmændɪd" },
+    { "word": "Lucina's", "ipa": "luˈsinəz" },
+    { "word": "army's", "ipa": "ɑɹmiz" },
+    { "word": "Robin's", "ipa": "ɹɑbɪnz" },
     
     { "word": "body's", "ipa": "bɑdiz" },
     { "word": "bodies", "ipa": "bɑdiz" },
