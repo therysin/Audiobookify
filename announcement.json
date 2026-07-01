@@ -1,8 +1,8 @@
 {
-  "version": 2,
+  "version": 3,
   "active": true,
   "frequency": "once",
   "title": "Welcome to the beta",
-  "body": "Thanks for testing Audiobookify! Consider sending your feedback, suggestions via Discord",
+  "body": "Build 15 is now out, brining user settable speed shortcuts. Consider sending your feedback etc via Discord",
   "link": { "label": "Discord", "url": "https://discord.gg/qfxwnjcr85" }
 }
