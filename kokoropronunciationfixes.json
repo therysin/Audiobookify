@@ -1,5 +1,5 @@
 {
-  "version": 16,
+  "version": 17,
   "engine": "kokoro",
   "updated": "2026-06-30",
   "entries": [
@@ -37,6 +37,7 @@
     { "word": "Lucina's", "ipa": "luˈsinəz" },
     { "word": "army's", "ipa": "ɑɹmiz" },
     { "word": "Robin's", "ipa": "ɹɑbɪnz" },
+    { "word": "minutes", "ipa": "mɪnɪts" },
     
     { "word": "body's", "ipa": "bɑdiz" },
     { "word": "bodies", "ipa": "bɑdiz" },
