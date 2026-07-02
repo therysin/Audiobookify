@@ -1,8 +1,8 @@
 {
-  "version": 5,
+  "version": 6,
   "active": true,
   "frequency": "once",
   "title": "Update on Testflight",
-  "body": "Build 19 is now out, changelogs are now on Discord.",
+  "body": "Build 19 is now out, changelogs are now on Discord. Reminder to everyone on iOS 27 that Apple disabled background neural engine playback. You will crash, use the lock button on the TTS UI instead. ",
   "link": { "label": "Discord", "url": "https://discord.gg/qfxwnjcr85" }
 }
