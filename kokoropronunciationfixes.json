@@ -1,7 +1,7 @@
 {
-  "version": 17,
+  "version": 18,
   "engine": "kokoro",
-  "updated": "2026-06-30",
+  "updated": "2026-07-01",
   "entries": [
     { "word": "fiance", "ipa": "fiˈɑnseɪ" },
     { "word": "fiancé", "ipa": "fiˈɑnseɪ" },
@@ -38,6 +38,8 @@
     { "word": "army's", "ipa": "ɑɹmiz" },
     { "word": "Robin's", "ipa": "ɹɑbɪnz" },
     { "word": "minutes", "ipa": "mɪnɪts" },
+    { "word": "notices", "ipa": "noʊtɪsɪz" },
+    { "word": "incidents", "ipa": "ɪnsɪdənts" },
     
     { "word": "body's", "ipa": "bɑdiz" },
     { "word": "bodies", "ipa": "bɑdiz" },
@@ -64,12 +66,12 @@
     { "word": "live", "ipa": "lɪv" },
     
     { "word": "hm", "ipa": "həm" },
-    { "word": "hmm", "ipa": "həmː" },
-    { "word": "hmmm", "ipa": "həmː" },
+    { "word": "hmm", "ipa": "həm" },
+    { "word": "hmmm", "ipa": "həm" },
     { "word": "hmph", "ipa": "hʌmf" },
     { "word": "huh", "ipa": "hʌ" },
     { "word": "uh", "ipa": "ʌ" },
-    { "word": "uhh", "ipa": "ʌː" },
+    { "word": "uhh", "ipa": "ʌ:" },
     { "word": "um", "ipa": "ʌm" },
     { "word": "umm", "ipa": "ʌmː" },
     { "word": "mm", "ipa": "mː" },
@@ -102,6 +104,6 @@
     { "word": "’cause", "ipa": "kʌz" },
     { "word": "okay", "ipa": "oʊkeɪ" },
     { "word": "OK", "ipa": "oʊkeɪ" },
-    { "word": "AI", "ipa": "ˌeɪˈaɪ" }
+    { "word": "AI", "ipa": "eɪˈaɪ" }
   ]
 }
