@@ -1,5 +1,5 @@
 {
-  "version": 19,
+  "version": 20,
   "engine": "kokoro",
   "updated": "2026-07-01",
   "entries": [
@@ -41,6 +41,7 @@
     { "word": "notices", "ipa": "noʊtɪsɪz" },
     { "word": "Azkaban", "ipa": "æzkəbæn" },
     { "word": "decades", "ipa": "dɛkeɪdz" },
+    { "word": "secrets", "ipa": "sikrəts" },
     
     
     { "word": "body's", "ipa": "bɑdiz" },
