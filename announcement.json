@@ -1,8 +1,8 @@
 {
-  "version": 8,
+  "version": 9,
   "active": true,
   "frequency": "once",
-  "title": "Update, iOS 27 notice",
-  "body": "Build 22 is now out on Testflight, changelogs are now on Discord. Reminder to everyone on iOS 27 that Apple disabled background neural engine playback. You will crash, use the lock button on the TTS UI instead. ",
+  "title": "Build 27 Update",
+  "body": "New filetype support etc. Changelogs are now on Discord.",
   "link": { "label": "Discord", "url": "https://discord.gg/qfxwnjcr85" }
 }
