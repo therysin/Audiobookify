@@ -1,5 +1,5 @@
 {
-  "version": 21,
+  "version": 22,
   "engine": "kokoro",
   "updated": "2026-07-01",
   "entries": [
@@ -43,6 +43,8 @@
     { "word": "decades", "ipa": "dɛkeɪdz" },
     { "word": "secrets", "ipa": "sikrəts" },
     { "word": "puts", "ipa": "pʊts" },
+    { "word": "dining", "ipa": "daɪnɪŋ" },
+    { "word": "diner", "ipa": "daɪnɚ" },
     
     
     { "word": "body's", "ipa": "bɑdiz" },
