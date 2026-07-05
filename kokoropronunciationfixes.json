@@ -1,5 +1,5 @@
 {
-  "version": 23,
+  "version": 24,
   "engine": "kokoro",
   "updated": "2026-07-01",
   "entries": [
@@ -49,7 +49,11 @@
     { "word": "puts", "ipa": "pʊts" },
     { "word": "dining", "ipa": "daɪnɪŋ" },
     { "word": "diner", "ipa": "daɪnɚ" },
-    
+    { "word": "accidents", "ipa": "æksɪdənts" },
+    { "word": "parameters", "ipa": "pəræməɾɚz" },
+    { "word": "accident", "ipa": "æksɪdənt" },
+    { "word": "parameter", "ipa": "pəræməɾɚ" },
+    { "word": "two", "ipa": "tu" },
     
     { "word": "body's", "ipa": "bɑdiz" },
     { "word": "bodies", "ipa": "bɑdiz" },
