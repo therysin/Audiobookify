@@ -1,5 +1,5 @@
 {
-  "version": 24,
+  "version": 25,
   "engine": "kokoro",
   "updated": "2026-07-01",
   "entries": [
@@ -54,6 +54,7 @@
     { "word": "accident", "ipa": "æksɪdənt" },
     { "word": "parameter", "ipa": "pəræməɾɚ" },
     { "word": "two", "ipa": "tu" },
+    { "word": "arms", "ipa": "ɑɹmz" },
     
     { "word": "body's", "ipa": "bɑdiz" },
     { "word": "bodies", "ipa": "bɑdiz" },
