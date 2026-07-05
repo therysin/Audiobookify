@@ -1,8 +1,8 @@
 {
-  "version": 10,
+  "version": 11,
   "active": true,
   "frequency": "once",
-  "title": "Build 28 Update",
-  "body": "New filetype support etc. Change your default prefetch to ~4. Changelogs are now on Discord.",
+  "title": "Build 40 Update",
+  "body": "Kokoro updates, UI polish, stability. Full changelogs on Discord.",
   "link": { "label": "Discord", "url": "https://discord.gg/qfxwnjcr85" }
 }
