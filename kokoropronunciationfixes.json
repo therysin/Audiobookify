@@ -1,5 +1,5 @@
 {
-  "version": 27,
+  "version": 28,
   "engine": "kokoro",
   "updated": "2026-07-01",
   "entries": [
@@ -56,6 +56,8 @@
     { "word": "two", "ipa": "tuː" },
     { "word": "arms", "ipa": "ɑɹmz" },
     { "word": "Daniela", "ipa": "dæniɛlə" },
+    { "word": "coincidence", "ipa": "koʊˈɪnsɪdəns" },
+    { "word": "coincidences", "ipa": "koʊˈɪnsɪdənsɪz" },
     
     { "word": "body's", "ipa": "bɑdiz" },
     { "word": "bodies", "ipa": "bɑdiz" },
