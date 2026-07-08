@@ -1,5 +1,5 @@
 {
-  "version": 28,
+  "version": 29,
   "engine": "kokoro",
   "updated": "2026-07-01",
   "entries": [
@@ -15,6 +15,7 @@
     { "word": "a", "ipa": "ə" },
     { "word": "someone", "ipa": "sʌmwʌn" },
     { "word": "someone's", "ipa": "sʌmwʌnz" },
+    { "word": "someones", "ipa": "sʌmwʌnz" },
     { "word": "everyone", "ipa": "ɛvɹiwʌn" },
     { "word": "everyone's", "ipa": "ɛvɹiwʌnz" },
     { "word": "everyones", "ipa": "ɛvɹiwʌnz" },
@@ -56,8 +57,10 @@
     { "word": "two", "ipa": "tuː" },
     { "word": "arms", "ipa": "ɑɹmz" },
     { "word": "Daniela", "ipa": "dæniɛlə" },
+    { "word": "Danielas", "ipa": "dæniɛləz" },
     { "word": "coincidence", "ipa": "koʊˈɪnsɪdəns" },
     { "word": "coincidences", "ipa": "koʊˈɪnsɪdənsɪz" },
+    { "word": "breathed", "ipa": "briðd" },
     
     { "word": "body's", "ipa": "bɑdiz" },
     { "word": "bodies", "ipa": "bɑdiz" },
