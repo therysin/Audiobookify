@@ -1,5 +1,5 @@
 {
-  "version": 29,
+  "version": 30,
   "engine": "kokoro",
   "updated": "2026-07-01",
   "entries": [
@@ -61,6 +61,8 @@
     { "word": "coincidence", "ipa": "koʊˈɪnsɪdəns" },
     { "word": "coincidences", "ipa": "koʊˈɪnsɪdənsɪz" },
     { "word": "breathed", "ipa": "briðd" },
+    { "word": "encloses", "ipa": "ɪnˈkloʊzɪz" },
+
     
     { "word": "body's", "ipa": "bɑdiz" },
     { "word": "bodies", "ipa": "bɑdiz" },
