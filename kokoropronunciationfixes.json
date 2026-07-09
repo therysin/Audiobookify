@@ -1,7 +1,7 @@
 {
-  "version": 30,
+  "version": 31,
   "engine": "kokoro",
-  "updated": "2026-07-01",
+  "updated": "2026-07-08",
   "entries": [
     { "word": "fiance", "ipa": "fiˈɑnseɪ" },
     { "word": "fiancé", "ipa": "fiˈɑnseɪ" },
@@ -54,7 +54,7 @@
     { "word": "parameters", "ipa": "pəræməɾɚz" },
     { "word": "accident", "ipa": "æksɪdənt" },
     { "word": "parameter", "ipa": "pəræməɾɚ" },
-    { "word": "two", "ipa": "tuː" },
+    { "word": "two", "ipa": "tʰu" },
     { "word": "arms", "ipa": "ɑɹmz" },
     { "word": "Daniela", "ipa": "dæniɛlə" },
     { "word": "Danielas", "ipa": "dæniɛləz" },
