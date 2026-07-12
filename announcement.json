@@ -1,8 +1,8 @@
 {
-  "version": 12,
+  "version": 13,
   "active": true,
   "frequency": "once",
-  "title": "Build 52 Update",
-  "body": "Leaner app - now 5.5Mb, Full changelogs on Discord.",
+  "title": "Build 63 Update",
+  "body": "New reading feature etc, Full changelogs on Discord.",
   "link": { "label": "Discord", "url": "https://discord.gg/qfxwnjcr85" }
 }
