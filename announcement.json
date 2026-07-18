@@ -1,8 +1,8 @@
 {
-  "version": 13,
+  "version": 14,
   "active": true,
   "frequency": "once",
-  "title": "Build 63 Update",
-  "body": "New reading feature etc, Full changelogs on Discord.",
+  "title": "Build 89 Update",
+  "body": "Big QoL Update, Full changelog on Discord.",
   "link": { "label": "Discord", "url": "https://discord.gg/qfxwnjcr85" }
 }
