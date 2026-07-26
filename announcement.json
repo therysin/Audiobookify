@@ -1,8 +1,8 @@
 {
-  "version": 14,
+  "version": 15,
   "active": true,
   "frequency": "once",
-  "title": "Build 89 Update",
-  "body": "Big QoL Update, Full changelog on Discord.",
+  "title": "Build 114 Update",
+  "body": "Widgets, RSVP mode etc Full changelog on Discord.",
   "link": { "label": "Discord", "url": "https://discord.gg/qfxwnjcr85" }
 }
