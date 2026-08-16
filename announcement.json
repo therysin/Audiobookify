@@ -1,8 +1,8 @@
 {
-  "version": 16,
+  "version": 17,
   "active": true,
   "frequency": "once",
-  "title": "Build 116 Update",
-  "body": "Widgets, RSVP mode etc Full changelog on Discord.",
+  "title": "Build 201 Update",
+  "body": "Many Changes, Full changelog on Discord.",
   "link": { "label": "Discord", "url": "https://discord.gg/qfxwnjcr85" }
 }
