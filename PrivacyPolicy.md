@@ -41,7 +41,7 @@ Audiobookify does not sell, rent, or share your personal information with third 
 Data may be handled by Apple services when you use iCloud, TestFlight, crash reporting, App Store distribution, or other Apple platform features, subject to Apple's privacy policies.
 Data may also be handled by FicHub if you choose to use Fanfiction URL import, and by model download services if you choose to download optional neural text-to-speech models.
 ## Children's Privacy
-Audiobookify is not directed at children under 13. The app does not knowingly collect personal information from children.
+The app does not collect personal information from children.
 ## Your Choices
 You can remove locally stored library data by deleting books from Audiobookify or by deleting the app from your device.
 You can manage iCloud data through Audiobookify's iCloud Sync settings and through your device's iCloud settings.
