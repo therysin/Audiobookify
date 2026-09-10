@@ -1,8 +1,8 @@
 {
-  "version": 19,
+  "version": 20,
   "active": true,
   "frequency": "once",
-  "title": "v1 Release",
-  "body": "Now out on the Appstore!",
+  "title": "v1.1 Update - Intelligent Recap etc",
+  "body": "Update on the Appstore. Join Discord in the about page for the full changelog.",
   "link": { "label": "Appstore", "url": "https://apps.apple.com/us/app/audiobookify/id6781111784" }
 }
