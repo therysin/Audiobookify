@@ -1,8 +1,13 @@
 {
-  "version": 20,
+  "version": 21,
   "active": true,
-  "frequency": "once",
+  "frequency": "everyLaunch",
+  "minBuild": 232,
+  "maxBuild": 232,
   "title": "v1.1 Update - Intelligent Recap etc",
   "body": "Update on the Appstore. Join Discord in the about page for the full changelog.",
-  "link": { "label": "Appstore", "url": "https://apps.apple.com/us/app/audiobookify/id6781111784" }
+  "link": {
+    "label": "Appstore",
+    "url": "https://apps.apple.com/us/app/audiobookify/id6781111784"
+  }
 }
