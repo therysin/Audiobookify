@@ -1,13 +1,11 @@
 {
-  "version": 21,
+  "version": 22,
   "active": true,
-  "frequency": "everyLaunch",
-  "minBuild": 232,
-  "maxBuild": 232,
-  "title": "v1.1 Update - Intelligent Recap etc",
-  "body": "Update on the Appstore. Join Discord in the about page for the full changelog.",
+  "frequency": "once",
+  "title": "v1.5 Released, Introducing Orate",
+  "body": "Update on the Appstore. Join Discord for free supporter access code.",
   "link": {
-    "label": "Appstore",
-    "url": "https://apps.apple.com/us/app/audiobookify/id6781111784"
+    "label": "Discord",
+    "url": "https://discord.com/invite/RCA34xQJYs"
   }
 }
