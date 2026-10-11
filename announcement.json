@@ -1,8 +1,8 @@
 {
-  "version": 23,
+  "version": 24,
   "active": true,
   "frequency": "once",
-  "title": "v1.6 Released",
+  "title": "v1.6.5 Released",
   "body": "Update on the Appstore. See Discord For changelogs.",
   "link": {
     "label": "Discord",
