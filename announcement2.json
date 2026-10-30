@@ -1,0 +1,25 @@
+{
+  
+  "1.7": {
+    "version": 1,
+    "title": "Join the Community",
+    "body": "Chat with other listeners, share feedback and hear about new features first.",
+    "link": {
+      "label": "Join the Discord",
+      "url": "https://discord.com/invite/RCA34xQJYs"
+    },
+    "frequency": "once"
+  },
+  
+  "everyoneElse": {
+    "version": 1,
+    "title": "Enjoying Audiobookify?",
+    "body": "A quick rating on the App Store really helps.",
+    "link": {
+      "label": "Rate Audiobookify",
+      "url": "https://apps.apple.com/app/id6781111784?action=write-review"
+    },
+    "frequency": "once"
+  }
+  
+}
