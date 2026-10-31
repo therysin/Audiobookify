@@ -1,6 +1,17 @@
 {
   
   "1.7": {
+    "version": 2,
+    "title": "Join the Community",
+    "body": "Chat with other listeners, share feedback and hear about new features first.",
+    "link": {
+      "label": "Rate Audiobookify",
+      "url": "https://apps.apple.com/app/id6781111784?action=write-review"
+    },
+    "frequency": "once"
+  },
+
+  "0.8": {
     "version": 1,
     "title": "Join the Community",
     "body": "Chat with other listeners, share feedback and hear about new features first.",
