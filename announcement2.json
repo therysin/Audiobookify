@@ -2,8 +2,8 @@
   
   "1.7": {
     "version": 2,
-    "title": "Join the Community",
-    "body": "Chat with other listeners, share feedback and hear about new features first.",
+    "title": "Enjoying Audiobookify?",
+    "body": "Rating really helps!",
     "link": {
       "label": "Rate Audiobookify",
       "url": "https://apps.apple.com/app/id6781111784?action=write-review"
@@ -11,7 +11,7 @@
     "frequency": "once"
   },
 
-  "0.8": {
+  "everyoneElse": {
     "version": 1,
     "title": "Join the Community",
     "body": "Chat with other listeners, share feedback and hear about new features first.",
@@ -22,15 +22,5 @@
     "frequency": "once"
   },
   
-  "everyoneElse": {
-    "version": 1,
-    "title": "Enjoying Audiobookify?",
-    "body": "A quick rating on the App Store really helps.",
-    "link": {
-      "label": "Rate Audiobookify",
-      "url": "https://apps.apple.com/app/id6781111784?action=write-review"
-    },
-    "frequency": "once"
-  }
   
 }
