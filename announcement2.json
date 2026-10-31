@@ -1,6 +1,6 @@
 {
   
-  "1.7": {
+  "off_1.7": {
     "version": 2,
     "title": "Enjoying Audiobookify?",
     "body": "Rating really helps!",
@@ -11,7 +11,7 @@
     "frequency": "once"
   },
 
-  "everyoneElse": {
+  "off_everyoneElse": {
     "version": 1,
     "title": "Join the Community",
     "body": "Chat with other listeners, share feedback and hear about new features first.",
