@@ -1,7 +1,18 @@
 {
+
+  "off_2.0": {
+    "version": 3,
+    "title": "Enjoying Audiobookify?",
+    "body": "Rating really helps!",
+    "link": {
+      "label": "Rate Audiobookify",
+      "url": "https://apps.apple.com/app/id6781111784?action=write-review"
+    },
+    "frequency": "once"
+  },
   
-  "off_1.7": {
-    "version": 2,
+  "offrate_1.7": {
+    "version": 3,
     "title": "Enjoying Audiobookify?",
     "body": "Rating really helps!",
     "link": {
