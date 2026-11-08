@@ -1,8 +1,19 @@
 {
 
-  "2.0": {
-    "version": 4,
-    "title": "Enjoying Audiobookify?",
+  "2.1": {
+    "version": 1,
+    "title": "Use code INTCAST for 1 week free",
+    "body": "Rating really helps!",
+    "link": {
+      "label": "Rate Audiobookify",
+      "url": "https://apps.apple.com/app/id6781111784?action=write-review"
+    },
+    "frequency": "once"
+  },
+  
+  "off_2.0": {
+    "version": 5,
+    "title": "Use code INTCAST for 1 week free",
     "body": "Rating really helps!",
     "link": {
       "label": "Rate Audiobookify",
