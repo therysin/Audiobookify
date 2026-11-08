@@ -2,6 +2,6 @@
   "version": 1,
   "entries": [
     { "find": "Æ", "replace": "ae" },
-    { "find": "æ", "replace": "ae" },
+    { "find": "æ", "replace": "ae" }
   ]
 }
